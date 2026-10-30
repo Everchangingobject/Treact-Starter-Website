@@ -64,7 +64,7 @@ p {
 #pricing .section__title {
     text-align: center;
 }
-.secion__para {
+.section__para {
     font-size: 18px;
     font-weight: 500;
     color: #7c8ba1;
@@ -303,7 +303,7 @@ header .row {
 .header__email--input {
     width: 100%;
     border-radius: 500px;
-    border: 2px rgb(229, 231, 235);
+    border: 2px solid rgb(229, 231, 235);
     padding: 20px 192px 20px 32px;
     color: rgb(36, 62, 99);
     font-size: 16px;
